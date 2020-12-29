@@ -61,7 +61,7 @@ Remove
 import * as React from 'react';
 ```
 
-let’s open the terminal and run `gulp start`
+let’s open the terminal and run `gulp serve`
 
 The error occurred because we must import React when using TSX syntax. 
 
