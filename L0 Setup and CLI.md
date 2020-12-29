@@ -2,9 +2,8 @@
 
 In this lab, you will:
 - Create the todo-webpart with the CLI
-- Modify the webpart
 
-## Exercise 2 - Creating a Webpart
+## Exercise 1 - Creating a Webpart
 Create a new React project using the following command:
 `yo @microsoft/sharepoint`
 `Solution Name: TodoList`
